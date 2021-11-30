@@ -1,10 +1,9 @@
 # PRI-EVAH
 
-------------------------------------------------------------------
 Client : eManRisk
-
+---------------------
 Product Owner : KUBICKI Sébastien
-
+--------------------------------------------
 Etudiants travaillant sur ce projet :	BRANDILY Hugo, ELEONORE Solène, IQUEL Fergal, HERBRETEAU Guillaume
 ------------------------------------------------------------------
 
