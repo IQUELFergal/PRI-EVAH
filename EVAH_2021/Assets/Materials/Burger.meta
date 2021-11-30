@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: 1b1f1889f445e8c408683599a31e7bd6
+folderAsset: yes
+=======
+<<<<<<<< HEAD:EVAH_2021/Assets/Prefabs/Materials.meta
+guid: 0ec24ebce1871914398479824d83fb37
+folderAsset: yes
+========
+guid: e2016370567508b4daad87a08bf37b6b
+>>>>>>>> 989713244781a9aab91fbd7731e2706ca9da44f6:EVAH_2021/Assets/Scenes/SampleScene_Hugo.unity.meta
+>>>>>>> 989713244781a9aab91fbd7731e2706ca9da44f6
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

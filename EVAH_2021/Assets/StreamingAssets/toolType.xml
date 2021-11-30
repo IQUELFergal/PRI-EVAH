@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VRSequoia>
+  <ToolTypes>
+    <ToolType id="401" label ="sonde"></ToolType>
+  </ToolTypes>
+</VRSequoia>

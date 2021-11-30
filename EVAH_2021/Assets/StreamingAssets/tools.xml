@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VRSequoia>
+  <Tools>
+    <Tool id="1" name="sonde1" toolType="401">
+      <gameobject>Sonde</gameobject>
+    </Tool>
+  </Tools>
+</VRSequoia>

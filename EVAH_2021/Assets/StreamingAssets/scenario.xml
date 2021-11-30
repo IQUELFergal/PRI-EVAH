@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Scenario>
+  <Etapes>
+    <Etape id="1">
+      <Instruction>Formation hygiène et tracabilité eManrisk - Leclerc</Instruction>
+      <Objet></Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>5</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="2">
+      <Instruction>Partie 1 : lavage des mains</Instruction>
+      <Objet></Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>5</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="3">
+      <Instruction>Mettre les mains sous l'eau</Instruction>
+      <Objet>Lave-main</Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>0</Temps>
+        <Evenement>Lave-main/Water</Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="4">
+      <Instruction>prendre du savon</Instruction>
+      <Objet>SoapDeliver</Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>0</Temps>
+        <Evenement>SoapDeliver/Soap</Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="5">
+      <Instruction>laver paume contre paume</Instruction>
+      <Objet></Objet>
+      <Ressources>ldm1</Ressources>
+      <Arret>
+        <Temps>10</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="6">
+      <Instruction>paume de la main droite sur le dos de la main gauche et paume de la main gauche sur le dos de la main droite </Instruction>
+      <Objet></Objet>
+      <Ressources>ldm2</Ressources>
+      <Arret>
+        <Temps>10</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="7">
+      <Instruction>paume contre paume, doigts entrelacés </Instruction>
+      <Objet></Objet>
+      <Ressources>ldm3</Ressources>
+      <Arret>
+        <Temps>10</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="8">
+      <Instruction>dos des doigts contre la paume opposée avec les doigts emboités </Instruction>
+      <Objet></Objet>
+      <Ressources>ldm4</Ressources>
+      <Arret>
+        <Temps>10</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="9">
+      <Instruction>Friction circulaire du pouce droit enchâssé dans la paume gauche et vice versa </Instruction>
+      <Objet></Objet>
+      <Ressources>ldm5</Ressources>
+      <Arret>
+        <Temps>10</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="10">
+      <Instruction>Friction en rotation en mouvement de va et vient et les doigts joints de la main droite dans la paume gauche et vice versa </Instruction>
+      <Objet></Objet>
+      <Ressources>ldm6</Ressources>
+      <Arret>
+        <Temps>10</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="11">
+      <Instruction>Rincer les mains sous l'eau</Instruction>
+      <Objet>Lave-main</Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>0</Temps>
+        <Evenement>Lave-main/Water</Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="12">
+      <Instruction>Partie 2 : cuisson d'un produit</Instruction>
+      <Objet></Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>5</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="13">
+      <Instruction>Mettre le poulet dans le four</Instruction>
+      <Objet>Stove</Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>0</Temps>
+        <Evenement>Stove</Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="14">
+      <Instruction>Attendre que le poulet atteigne les +63°C</Instruction>
+      <Objet></Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>0</Temps>
+        <Evenement>Chicken</Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="15">
+      <Instruction>Prendre la température du poulet</Instruction>
+      <Objet>Thermomètre/Scaler/Sonde</Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>30</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="16">
+      <Instruction>Partie 3 : refroidissement d'un produit</Instruction>
+      <Objet></Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>5</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="17">
+      <Instruction>Mettre le poulet dans la cellule de refroidissement</Instruction>
+      <Objet>Fridge</Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>0</Temps>
+        <Evenement>Fridge</Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="18">
+      <Instruction>Attendre que le poulet atteigne les 10°C</Instruction>
+      <Objet></Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>0</Temps>
+        <Evenement>Chicken</Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="19">
+      <Instruction>Prendre la température du poulet</Instruction>
+      <Objet>Thermomètre/Scaler/Sonde</Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>30</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="20">
+      <Instruction>Partie 4 : stockage d'un produit</Instruction>
+      <Objet></Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>5</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="21">
+      <Instruction>Placer une étiquette sur le poulet</Instruction>
+      <Objet>Etiquette</Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>0</Temps>
+        <Evenement>Etiquette</Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="22">
+      <Instruction>Mettre le poulet dans la chambre froide</Instruction>
+      <Objet>Shelf (4)</Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>0</Temps>
+        <Evenement>Shelf (4)</Evenement>
+      </Arret>
+    </Etape>
+    <Etape id="23">
+      <Instruction>Merci pour votre participation</Instruction>
+      <Objet></Objet>
+      <Ressources></Ressources>
+      <Arret>
+        <Temps>0</Temps>
+        <Evenement></Evenement>
+      </Arret>
+    </Etape>
+  </Etapes>
+</Scenario>

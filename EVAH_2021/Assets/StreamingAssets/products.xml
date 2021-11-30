@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<VRSequoia>
+  <Products>
+    <Product id="1" productType="109" name="Justin Bridou">
+      <temperature>17</temperature>
+      <bacteries>true</bacteries>
+      <gameObject>saucisson</gameObject>
+    </Product>
+    <Product id="2" productType="120" name="Pizza 4 fromages">
+      <temperature>20</temperature>
+      <bacteries>true</bacteries>
+      <gameObject>Pizza</gameObject>
+    </Product>
+    <Product id="3" productType="109" name="poulet roti">
+      <temperature>20</temperature>
+      <bacteries>true</bacteries>
+      <gameObject>Chicken</gameObject>
+    </Product>
+  </Products>
+</VRSequoia>
