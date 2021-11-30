@@ -13,7 +13,7 @@ L'objectif est de concevoir un environnement virtuel représentant un laboratoir
 
 Réalisé sous Unity (version 2019.4.20f1)
 
-Pour télécharger le projet, veuillez cloner le répertoire git suivant : https://git.enib.fr/g6herbre/pri-evah.git
+Pour télécharger le projet, veuillez cloner le répertoire git suivant : https://github.com/IQUELFergal/PRI-EVAH.git
 "EnvironementScene.unity" est la scène principale, celle qui représente le laboratoire, elle se trouve dans le répertoire Assets/Scenes/.
 
 Le projet utilise "Steam VR" qui offre de nombreux objets, scripts, attribus et méthodes facilitant l'interaction avec l'environnement virtuel. Si besoin, vous pouvez le trouver gratuitement dans l'Asset Store Unity puis l'importer.
