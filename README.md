@@ -1,12 +1,11 @@
 # PRI-EVAH
 
 ------------------------------------------------------------------
-Client : eManRisk						--
-Product Owner : KUBICKI Sébastien				--
-Etudiants travaillant sur ce projet :	BRANDILY Hugo		--
-					ELEONORE Solène		--
-					IQUEL Fergal		--
-					HERBRETEAU Guillaume	--
+Client : eManRisk
+
+Product Owner : KUBICKI Sébastien
+
+Etudiants travaillant sur ce projet :	BRANDILY Hugo, ELEONORE Solène, IQUEL Fergal, HERBRETEAU Guillaume
 ------------------------------------------------------------------
 
 Ce projet a été commencé en 2021 au semestre de printemps dans le cadre du module de PRI.
